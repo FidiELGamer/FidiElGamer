@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java at University and JavaScript on my own<br>🎯 Goals: Help at es.ivao.aero and make a multifunctions Discord Bot<br>🎲 Fun fact: 2 + 2 = 4 !?!?<br>✈️ I ❤️ aviation</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Java at University and JavaScript on my own<br>🎯 Goals: Help at es.ivao.aero and make a multifunction Discord Bot<br>🎲 Fun fact: 2 + 2 = 4 !?!?<br>✈️ I ❤️ aviation</p>
 
 ###
 
